@@ -13,6 +13,8 @@
 - `net start mongodb` : to start mongodb server (Run as administration)
 - `net stop mongodb` : to stop mongodb server (Run as administration)
 - `mongosh `: to run terminal commands and press Ctrl + C twice to exit mongosh.
+  
+### Mongosh Terminal Commands
 - `cls` : The cls command clears the console.
 - `show dbs` : to show databases
 - `use databaseName` : to switch database or create new database.
